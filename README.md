@@ -3,7 +3,7 @@ Repository consists of various implementations of testing different kinds of Mac
 
 The **ML-Theory-Experimental** folder tests a novel Machine Learning method that attempts to combine Decision Trees with other algorithms (Combining Classical Occam's Razor Learning with Vapnik's Modern Statistical Theory).
 
-All python implementations utilize the Orange Machine Learning Software.
+All python implementations utilize the Orange open-source Data Mining Toolkit.
 A preliminary implementation was done using MATLAB. Code dates back to 2014.
 
 **General Test of All ML Methods included in root of repository**
